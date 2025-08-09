@@ -15,19 +15,19 @@
 
 ###
 
-<h1 align="center">hey there ,I'm Hossam EL-Ghandour 👋</h1>
+<h1 align="center">Hi there ,I'm Hossam EL-Ghandour👋<br><br>BI Data Analytics Engineer</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center"></h3>
 
 ###
 
-<p align="left"> BI Data Analytics Engineer</p>
+<p align="left"></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"></h3>
 
 ###
 
