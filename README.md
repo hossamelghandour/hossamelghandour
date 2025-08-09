@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there ,I'm Hossam EL-Ghandour 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm BI Data Analytics Engineer</p>
+<p align="left"> BI Data Analytics Engineer</p>
 
 ###
 
